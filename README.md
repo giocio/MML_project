@@ -1,2 +1,4 @@
 # MML_project
 Analysis of ensemble techniques on tree-based classifiers and SVM for breast cancer classification
+
+In this project I am going to analyse some of the topics examined in ”Math-ematics in Machine Learning” course offered at Politecnico di Torino, M.Sc.in Data Science and Engineering.  I will build a binary classification modelfor predicting whether a breast mass is malignant or benign based on Breastcancer  Wisconsin  (diagnostic)  dataset.   In  particular,  I  will  focus  on  thebias-variance trade-offand howensemble techniquessuch as Bagging,Random  Forest  and  Adaptive  Boosting  used  on  tree-based  classifiers  andSupport Vector Machines can handle it.  All the steps of the data pipelinewill be explored, including data pre-processing, features selection, PrincipalComponent Analisys and Singular Value Decomposition, algorithms’ detailsand implementation and, finally, the results.
